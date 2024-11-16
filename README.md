@@ -1,4 +1,4 @@
-# House-Price-Prediction-Model
+# House-Price-Prediction-Model-Using-Linear-Regression
 Developed a predictive model to estimate median housing prices using economic and demographic factors such as median income, house age, average number of rooms, average bedrooms, population, average occupancy, and geographical location (latitude and longitude). Employed data preprocessing, feature analysis, and linear regression modeling to build the solution. Evaluated model performance using Root Mean Squared Error (RMSE) metrics and visualized true vs. predicted housing prices to interpret model predictions effectively.
 <BR>
 <BR>
