@@ -1,8 +1,14 @@
 # House-Price-Prediction-Model
-Boston House Price Prediction Model Using Machine Learning.
+Developed a predictive model to estimate median housing prices using economic and demographic factors such as median income, house age, average number of rooms, average bedrooms, population, average occupancy, and geographical location (latitude and longitude). Employed data preprocessing, feature analysis, and linear regression modeling to build the solution. Evaluated model performance using Root Mean Squared Error (RMSE) metrics and visualized true vs. predicted housing prices to interpret model predictions effectively.
 <BR>
-• Enhanced Boston housing price predictions by employing linear regression with NumPy, Pandas, and scikit-learn.
+Key Contributions:
 <BR>
-• Incorporated crime rate, area, highway proximity, and demographics to boost model accuracy.
+• Analyzed key features like MedInc (median income) and HouseAge to identify their impact on housing prices.
 <BR>
-• Evaluated model performance through mean squared error analysis, reducing search time for accurate prices.
+• Preprocessed data by splitting it into training and testing sets (85%-15% split) for robust evaluation.
+<BR>
+• Trained a Linear Regression model and validated performance using RMSE for both training and testing datasets.
+<BR>
+• Created insightful visualizations with Matplotlib to compare actual vs. predicted values, showcasing model accuracy.
+<BR>
+• Gained actionable insights into regional housing price trends by analyzing the influence of latitude and longitude.
