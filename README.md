@@ -1,4 +1,4 @@
-# Boston-House-Price-Prediction-Model
+# House-Price-Prediction-Model
 Boston House Price Prediction Model Using Machine Learning.
 <BR>
 • Enhanced Boston housing price predictions by employing linear regression with NumPy, Pandas, and scikit-learn.
